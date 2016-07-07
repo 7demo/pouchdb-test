@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>Document</title>
+</head>
+<body>
+   
+   <div class="log" style="width:100%; height:300px; overflow-x: scroll;">
+      
+   </div>
+
+   <button id='run'>run pouchdb</button>
+   <button id='brower'>get brower info</button>
+   <script src="https://cdn.bootcss.com/jquery/2.2.0/jquery.js"></script>
+   <script src="https://cdn.bootcss.com/pouchdb/5.4.5/pouchdb.js"></script>
+   <script>
+      
+      room = new PouchDB('room');
+
+      $('#run').click(function () {
+
+         $('.log').html(JSON.stringify(room));
+
+      })
+
+      $('#brower').click(function () {
+
+         $('.log').html(navigator.appVersion);
+
+      })
+
+   </script>
+
+
+</body>
+</html>

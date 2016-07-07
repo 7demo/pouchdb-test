@@ -1,0 +1,162 @@
+#ZOSLOG#
+17:53:52.059 ZOS: INFO: ModEhInit hub.
+17:53:52.059 ZOS: INFO: task<MOD_MGR:240> alloc ok.
+17:53:52.059 ZOS: INFO: task<MOD_MGR:240> spawn ok.
+17:53:52.070 ZOS: INFO: module manager active run.
+17:53:52.070 ZOS: INFO: module init ok.
+17:53:52.070 ZOS: INFO: qtimer create ok.
+17:53:52.070 ZOS: INFO: task<TIMER:241> alloc ok.
+17:53:52.070 ZOS: INFO: task<TIMER:241> spawn ok.
+17:53:52.070 ZOS: INFO: timer task active run.
+17:53:52.071 ZOS: INFO: HttpInit
+17:53:52.071 ZOS: INFO: system 2016-07-07T17:53:52+08:00 init ok.
+17:53:52.071 XML: INFO: init ok.
+17:53:52.071 ZOS: INFO: Com reference added, count is 2
+17:53:52.172 ZOS: INFO: Com reference added, count is 2
+17:53:52.377 ARC: INFO: init ok.
+17:53:52.377 ZOS: INFO: task<ARC:242> alloc ok.
+17:53:52.377 ZOS: INFO: task<ARC:242> spawn ok.
+17:53:52.377 ZOS: INFO: task<ARC:242> module start ok.
+17:53:52.377 ARC: INFO: arc task run.
+17:53:52.377 ARC: INFO: task start ok.
+17:53:52.378 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\\provisions.xml2ss> ok.
+17:53:52.379 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\\provisions.xml> ok.
+17:53:52.379 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\\provisions.xml2ss> ok.
+17:53:52.379 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\\provisions.xml> ok.
+17:53:52.380 ZOS: INFO: Com reference added, count is 2
+17:53:52.414 MME: INFO: Device name Real 132610.
+17:53:52.414 ZOS: ERROR: Open file<C:\Users\xishiyi\Desktop\Debug\log\/mme.ini> failed<2>.
+17:53:52.414 ZOS: WARN: open file(C:\Users\xishiyi\Desktop\Debug\log\/mme.ini) read and bin mode.
+17:53:52.414 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\/mme.ini> ok.
+17:53:52.415 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\/mme.ini> ok.
+17:53:52.415 MME: INFO: load section: Juphoon
+17:53:52.415 MME: INFO: load section: General
+17:53:52.417 MME: INFO: MME Version 78ed0e4(151218)
+17:53:52.446 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\/mdm.eft> ok.
+17:53:52.446 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\/mdm.eft> ok.
+17:53:52.446 ZOS: ERROR: Open file<C:\Users\xishiyi\Desktop\Debug\log\/mdm.ini> failed<2>.
+17:53:52.446 ZOS: WARN: open file(C:\Users\xishiyi\Desktop\Debug\log\/mdm.ini) read and bin mode.
+17:53:52.446 MDM: WARN:  'C:\Users\xishiyi\Desktop\Debug\log\/mdm.ini` not exist or invalid
+17:53:52.447 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\/mdm.ini> ok.
+17:53:52.447 MDM: INFO: save 'C:\Users\xishiyi\Desktop\Debug\log\/mdm.ini` finished
+17:53:52.447 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\/mdm.eft> ok.
+17:53:52.447 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\/mdm.eft> ok.
+17:53:52.447 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\/mdm.ini> ok.
+17:53:52.447 MDM: INFO: load device general mmp
+17:53:52.447 MDM: INFO: load device local mmp
+17:53:52.447 MDM: INFO: load device remote mmp
+17:53:52.447 MDM: INFO: load device manual mmp
+17:53:52.447 MDM: INFO: load device topten mmp
+17:53:52.447 MDM: INFO: load device model mmp
+17:53:52.447 MDM: INFO: read 'C:\Users\xishiyi\Desktop\Debug\log\/mdm.ini` finished
+17:53:52.448 ZOS: INFO: task<MVC:243> alloc ok.
+17:53:52.452 ZOS: INFO: task<MVC:243> spawn ok.
+17:53:52.452 ZOS: INFO: task<MVC:243> module start ok.
+17:53:52.452 MVC: INFO: DspSetAecMode mode 1.
+17:53:52.452 MVC: INFO: DspSetAecEnable set enable
+17:53:52.452 MVC: INFO: DspSetAgcMode mode 0
+17:53:52.452 MVC: INFO: DspSetAgcEnable set enable
+17:53:52.452 MVC: INFO: DspSetAnrMode mode 0.
+17:53:52.452 MVC: INFO: DspSetAnrEnable set enable
+17:53:52.452 ZOS: INFO: task<MVD:244> alloc ok.
+17:53:52.452 ZOS: INFO: task<MVD:244> spawn ok.
+17:53:52.452 ZOS: INFO: task<MVD:244> module start ok.
+17:53:52.452 MTC: INFO: Init Lemon:fe49580(151225) Melon:78ed0e4(151218) Avatar:d7ed90f(151223) Jsm:8526ea8(151218)-78ed0e4(151218)-1-0.3.
+17:54:15.739 MVD: WARN: MvdwEngine::PreviewShow is obsolete
+17:54:15.739 ZOS: INFO: task<MVD:244> module stop ok.
+17:54:15.739 ZOS: INFO: task<MVD> mission complete.
+17:54:15.739 ZOS: INFO: task<MVD:244> free ok.
+17:54:15.794 ZOS: INFO: task<MVC:243> module stop ok.
+17:54:15.794 ZOS: INFO: task<MVC> mission complete.
+17:54:15.794 ZOS: INFO: task<MVC:243> free ok.
+17:54:15.824 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\/mme.ini> ok.
+17:54:15.825 ZOS: INFO: task<ARC:242> module stop ok.
+17:54:15.825 ZOS: INFO: task<ARC> mission complete.
+17:54:15.825 ZOS: INFO: task<ARC:242> free ok.
+17:54:15.855 XML: INFO: destroy ok.
+17:54:15.855 ZOS: INFO: HttpDestroy
+17:54:15.855 ZOS: INFO: task<TIMER> mission complete.
+17:54:15.855 ZOS: INFO: task<TIMER:241> free ok.
+17:54:15.886 ZOS: INFO: task<TIMER:241> delete ok.
+17:54:15.886 ZOS: INFO: qtimer delete ok.
+17:54:15.886 ZOS: INFO: Uninitialize com.
+17:54:15.886 ZOS: INFO: task<MOD_MGR> mission complete.
+17:54:15.886 ZOS: INFO: task<MOD_MGR:240> free ok.
+17:54:15.916 ZOS: INFO: task<MOD_MGR:240> delete ok.
+17:54:15.916 ZOS: INFO: module all tasks were destroied.
+17:54:15.916 ZOS: INFO: ModEhDestroy hub.
+17:54:17.666 ZOS: INFO: ModEhInit hub.
+17:54:17.666 ZOS: INFO: task<MOD_MGR:240> alloc ok.
+17:54:17.666 ZOS: INFO: task<MOD_MGR:240> spawn ok.
+17:54:17.676 ZOS: INFO: module manager active run.
+17:54:17.676 ZOS: INFO: module init ok.
+17:54:17.676 ZOS: INFO: qtimer create ok.
+17:54:17.676 ZOS: INFO: task<TIMER:241> alloc ok.
+17:54:17.676 ZOS: INFO: task<TIMER:241> spawn ok.
+17:54:17.676 ZOS: INFO: timer task active run.
+17:54:17.676 ZOS: INFO: HttpInit
+17:54:17.676 ZOS: INFO: system 2016-07-07T17:54:17+08:00 init ok.
+17:54:17.676 XML: INFO: init ok.
+17:54:17.676 ZOS: INFO: Com reference added, count is 2
+17:54:17.703 ZOS: INFO: Com reference added, count is 2
+17:54:17.944 ARC: INFO: init ok.
+17:54:17.944 ZOS: INFO: task<ARC:242> alloc ok.
+17:54:17.944 ZOS: INFO: task<ARC:242> spawn ok.
+17:54:17.944 ZOS: INFO: task<ARC:242> module start ok.
+17:54:17.944 ARC: INFO: arc task run.
+17:54:17.944 ARC: INFO: task start ok.
+17:54:17.945 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\\provisions.xml> ok.
+17:54:17.945 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\\provisions.xml2ss> ok.
+17:54:17.945 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\\provisions.xml> ok.
+17:54:17.946 ZOS: INFO: Com reference added, count is 2
+17:54:18.009 MME: INFO: Device name Real 132610.
+17:54:18.010 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\/mme.ini> ok.
+17:54:18.010 MME: INFO: load section: Juphoon
+17:54:18.010 MME: INFO: load section: General
+17:54:18.011 MME: INFO: MME Version 78ed0e4(151218)
+17:54:18.045 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\/mdm.eft> ok.
+17:54:18.045 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\/mdm.eft> ok.
+17:54:18.045 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\/mdm.ini> ok.
+17:54:18.045 MDM: INFO: load device general mmp
+17:54:18.045 MDM: INFO: load device local mmp
+17:54:18.045 MDM: INFO: load device remote mmp
+17:54:18.045 MDM: INFO: load device manual mmp
+17:54:18.045 MDM: INFO: load device topten mmp
+17:54:18.045 MDM: INFO: load device model mmp
+17:54:18.045 MDM: INFO: read 'C:\Users\xishiyi\Desktop\Debug\log\/mdm.ini` finished
+17:54:18.045 ZOS: INFO: task<MVC:243> alloc ok.
+17:54:18.049 ZOS: INFO: task<MVC:243> spawn ok.
+17:54:18.049 ZOS: INFO: task<MVC:243> module start ok.
+17:54:18.049 MVC: INFO: DspSetAecMode mode 1.
+17:54:18.049 MVC: INFO: DspSetAecEnable set enable
+17:54:18.049 MVC: INFO: DspSetAgcMode mode 0
+17:54:18.049 MVC: INFO: DspSetAgcEnable set enable
+17:54:18.049 MVC: INFO: DspSetAnrMode mode 0.
+17:54:18.049 MVC: INFO: DspSetAnrEnable set enable
+17:54:18.049 ZOS: INFO: task<MVD:244> alloc ok.
+17:54:18.049 ZOS: INFO: task<MVD:244> spawn ok.
+17:54:18.049 ZOS: INFO: task<MVD:244> module start ok.
+17:54:18.049 MTC: INFO: Init Lemon:fe49580(151225) Melon:78ed0e4(151218) Avatar:d7ed90f(151223) Jsm:8526ea8(151218)-78ed0e4(151218)-1-0.3.
+17:54:56.501 MVD: WARN: MvdwEngine::PreviewShow is obsolete
+17:54:56.502 ZOS: INFO: task<MVD:244> module stop ok.
+17:54:56.502 ZOS: INFO: task<MVD> mission complete.
+17:54:56.502 ZOS: INFO: task<MVD:244> free ok.
+17:54:56.556 ZOS: INFO: task<MVC:243> module stop ok.
+17:54:56.556 ZOS: INFO: task<MVC> mission complete.
+17:54:56.556 ZOS: INFO: task<MVC:243> free ok.
+17:54:56.587 ZOS: INFO: Win WideOpen file<C:\Users\xishiyi\Desktop\Debug\log\/mme.ini> ok.
+17:54:56.587 ZOS: INFO: task<ARC:242> module stop ok.
+17:54:56.587 ZOS: INFO: task<ARC> mission complete.
+17:54:56.587 ZOS: INFO: task<ARC:242> free ok.
+17:54:56.617 XML: INFO: destroy ok.
+17:54:56.617 ZOS: INFO: HttpDestroy
+17:54:56.617 ZOS: INFO: task<TIMER> mission complete.
+17:54:56.617 ZOS: INFO: task<TIMER:241> free ok.
+17:54:56.648 ZOS: INFO: task<TIMER:241> delete ok.
+17:54:56.648 ZOS: INFO: qtimer delete ok.
+17:54:56.648 ZOS: INFO: Uninitialize com.
+17:54:56.648 ZOS: INFO: task<MOD_MGR> mission complete.
+17:54:56.648 ZOS: INFO: task<MOD_MGR:240> free ok.
+17:54:56.678 ZOS: INFO: task<MOD_MGR:240> delete ok.
+17:54:56.678 ZOS: INFO: module all tasks were destroied.
+17:54:56.678 ZOS: INFO: ModEhDestroy hub.

@@ -1,0 +1,16 @@
+mmp.android.audio.mode:Mmp TOP10
+mmp.speaker.volume.max:Mmp TOP10
+mmp.audio.rec.mode:Mmp TOP10
+mmp.audio.play.mode:Mmp TOP10
+mmp.aec.mode:Mmp TOP10
+mmp.echo.delay.ms:Mmp TOP10
+mmp.rxagc.target:Mmp TOP10
+mmp.rxagc.enable:Mmp TOP10
+mmp.screen.ratiox100:Mmp TOP10
+mmp.screen.sizex10:Mmp TOP10
+mmp.screen.area:Mmp TOP10
+mmp.video.th1.max:Mmp TOP10
+mmp.video.th2.max:Mmp TOP10
+mmp.cpu.load:Mmp TOP10
+mmp.cstm.w:Mmp Manual
+mmp.cstm.h:Mmp Manual

@@ -1,0 +1,60 @@
+Message: The 'options' directive has been replaced with 'unsafe-inline' and 'unsafe-eval' source expressions for the 'script-src' and 'style-src' directives. Please use those directives instead, as 'options' has no effect.
+Source: http://html5test.com/
+Line: 0
+-----------------------
+Message: IndexedDB: starting tests
+Source: http://html5test.com/scripts/6/engine.js
+Line: 3350
+-----------------------
+Message: IndexedDB: delete existing database (if exists)
+Source: http://html5test.com/scripts/6/engine.js
+Line: 3356
+-----------------------
+Message: IndexedDB: starting tests
+Source: http://html5test.com/scripts/7/engine.js
+Line: 3506
+-----------------------
+Message: IndexedDB: delete existing database (if exists)
+Source: http://html5test.com/scripts/7/engine.js
+Line: 3512
+-----------------------
+Message: IndexedDB: opening new database
+Source: http://html5test.com/scripts/6/engine.js
+Line: 3368
+-----------------------
+Message: IndexedDB: opening new database
+Source: http://html5test.com/scripts/7/engine.js
+Line: 3524
+-----------------------
+Message: IndexedDB: creating objectStore
+Source: http://html5test.com/scripts/6/engine.js
+Line: 3371
+-----------------------
+Message: IndexedDB: database opened
+Source: http://html5test.com/scripts/6/engine.js
+Line: 3383
+-----------------------
+Message: IndexedDB: objectStore with Blob passed
+Source: http://html5test.com/scripts/6/engine.js
+Line: 3390
+-----------------------
+Message: IndexedDB: objectStore with ArrayBuffer passed
+Source: http://html5test.com/scripts/6/engine.js
+Line: 3402
+-----------------------
+Message: IndexedDB: database opened
+Source: http://html5test.com/scripts/7/engine.js
+Line: 3539
+-----------------------
+Message: IndexedDB: objectStore with Blob passed
+Source: http://html5test.com/scripts/7/engine.js
+Line: 3546
+-----------------------
+Message: IndexedDB: objectStore with ArrayBuffer passed
+Source: http://html5test.com/scripts/7/engine.js
+Line: 3558
+-----------------------
+Message: The 'options' directive has been replaced with 'unsafe-inline' and 'unsafe-eval' source expressions for the 'script-src' and 'style-src' directives. Please use those directives instead, as 'options' has no effect.
+Source: about:blank
+Line: 0
+-----------------------
